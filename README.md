@@ -1,9 +1,10 @@
 # ProgNadadoresIEE-ProgAPP
 Programa para Evaluacion del Curso NadadoresIEE-ProgAPP.
+
 								Licencia MIT, 
 
 
-	"Licencia General para Programas de C y Java de los Cursos de Programación Aplicada" | Universidad Nacional Autonoma de Mexico. | Facultad de Estudios Superiores Aragón. |Ingeniería Eléctrica Electrónica, Segundo Semestre.
+"Licencia General para Programas de C y Java de los Cursos de Programación Aplicada" | Universidad Nacional Autonoma de Mexico. | Facultad de Estudios Superiores Aragón. |Ingeniería Eléctrica Electrónica, Segundo Semestre.
 
 * Programa que Compara Tiempos de Competicion en Nadadores - Version 14May2020-2:00PM
 
